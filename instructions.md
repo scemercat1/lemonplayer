@@ -12,7 +12,7 @@
 
 ## Installation
 
-1. Download the latest `RetroLemonPlayer_Setup.exe` from [GitHub Releases](link-to-releases).  
+1. Download the latest `RetroLemonPlayer_Setup.exe` from GithubReleases. (click the green button named 'code' then download as zip. after all you should go and see on your pc, the 'net6.0-windows.exe' file. install the lemonplayer from that installer)  
 2. Make sure **.NET 6 Desktop Runtime** is installed.  
 3. Run the installer.  
 4. Choose install folder (default: `C:\Program Files\RetroLemonPlayer`).  
